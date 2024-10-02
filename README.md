@@ -5,7 +5,7 @@ Developed a Chrome extension tailored for LinkedIn users, aimed at streamlining 
 
 ## Demo 
 
-https://drive.google.com/file/d/1I-p9QIOKoKwCSKljRdFgagN8o4MpuJ7A/view?usp=sharing
+https://github.com/user-attachments/assets/3a2ed859-b8dd-42ca-a8bc-06fdb5044a99
 
 ## Setup
 1. Clone this repository. 
